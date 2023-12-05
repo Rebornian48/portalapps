@@ -1,0 +1,29 @@
+/* Add your custom styles here */
+body.dark {
+    background-color: #1f2937;
+    color: #f9fafb;
+}
+
+.dark .bg-white {
+    background-color: #1f2937;
+}
+
+.dark .text-white {
+    color: #f9fafb;
+}
+
+.dark .text-gray-500 {
+    color: #9ca3af;
+}
+
+.dark .bg-gray-900 {
+    background-color: #111827;
+}
+
+.dark .text-indigo-500 {
+    color: #6366f1;
+}
+
+.dark .hover\:underline:hover {
+    text-decoration: underline;
+}
